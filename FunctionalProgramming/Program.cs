@@ -10,7 +10,7 @@ namespace FunctionalProgramming
     {
         public static void Main(string[] args)
         {
-            LeapYear.LeapYearOrNot();
+            PowerOf2.Pow();
             Console .ReadKey();
         }
     }
