@@ -10,7 +10,9 @@ namespace FunctionalProgramming
     {
         public static void Main(string[] args)
         {
-            PowerOf2.Pow();
+            Console.WriteLine("Enter the Harmonic value N : ");
+            int n=Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("The "+n+"th Harmonic value = "+HarmonicNumber.Harmonic(n));
             Console .ReadKey();
         }
     }
