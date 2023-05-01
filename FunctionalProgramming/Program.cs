@@ -10,7 +10,7 @@ namespace FunctionalProgramming
     {
         public static void Main(string[] args)
         {
-            VowelConsonent.CheckAlphabet();   //call the CheckAlphabet method
+            LargestAmongThreeNo.largestNumber();   //call the LargestNumber method
             Console .ReadKey();
         }
     }
