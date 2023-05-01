@@ -10,7 +10,7 @@ namespace FunctionalProgramming
     {
         public static void Main(string[] args)
         {
-            QuotientAndRemainder.QuoRem();
+            Swap.SwapingTwoNo();
             Console .ReadKey();
         }
     }
