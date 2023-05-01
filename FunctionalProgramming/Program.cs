@@ -10,8 +10,8 @@ namespace FunctionalProgramming
     {
         public static void Main(string[] args)
         {
-            FlipCoin.HeadTail();
-
+            LeapYear.LeapYearOrNot();
+            Console .ReadKey();
         }
     }
 }
