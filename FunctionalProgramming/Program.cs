@@ -10,7 +10,7 @@ namespace FunctionalProgramming
     {
         public static void Main(string[] args)
         {
-            Swap.SwapingTwoNo();
+            EvenOrOdd.EvenOdd();    
             Console .ReadKey();
         }
     }
