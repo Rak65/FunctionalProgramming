@@ -1,0 +1,8 @@
+H:\C# Project\FunctionalProgramming\FunctionalProgramming\bin\Debug\FunctionalProgramming.exe.config
+H:\C# Project\FunctionalProgramming\FunctionalProgramming\bin\Debug\FunctionalProgramming.exe
+H:\C# Project\FunctionalProgramming\FunctionalProgramming\bin\Debug\FunctionalProgramming.pdb
+H:\C# Project\FunctionalProgramming\FunctionalProgramming\obj\Debug\FunctionalProgramming.csproj.AssemblyReference.cache
+H:\C# Project\FunctionalProgramming\FunctionalProgramming\obj\Debug\FunctionalProgramming.csproj.SuggestedBindingRedirects.cache
+H:\C# Project\FunctionalProgramming\FunctionalProgramming\obj\Debug\FunctionalProgramming.csproj.CoreCompileInputs.cache
+H:\C# Project\FunctionalProgramming\FunctionalProgramming\obj\Debug\FunctionalProgramming.exe
+H:\C# Project\FunctionalProgramming\FunctionalProgramming\obj\Debug\FunctionalProgramming.pdb
