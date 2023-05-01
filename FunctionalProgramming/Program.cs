@@ -10,7 +10,7 @@ namespace FunctionalProgramming
     {
         public static void Main(string[] args)
         {
-            EvenOrOdd.EvenOdd();    
+            VowelConsonent.CheckAlphabet();   //call the CheckAlphabet method
             Console .ReadKey();
         }
     }
