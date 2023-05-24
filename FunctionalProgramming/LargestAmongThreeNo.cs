@@ -27,7 +27,7 @@ namespace FunctionalProgramming
                 }
                 else
                 {
-                    Console.WriteLine("The 2nd number is greatest among three.");
+                    Console.WriteLine("The 3rd number is greatest among three.");
                 }
             }
             else if (num2 > num3)
